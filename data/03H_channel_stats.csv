@@ -1,0 +1,7 @@
+﻿metric,value
+mean_h_power,0.9984045624732971
+noise_var_measured,0.04980287328362465
+noise_var_theory,0.05000000074505806
+kappa_median_db,9.429433822631836
+kappa_p90_db,17.53462791442871
+kappa_max_db,60.157188415527344

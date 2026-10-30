@@ -1,0 +1,10 @@
+# 无线通信系统仿真实验 —— 运行环境
+# Python 3.12
+torch>=2.9          # CPU 版即可：pip install torch --index-url https://download.pytorch.org/whl/cpu
+sionna>=2.2
+numpy>=2.0
+scipy>=1.14
+matplotlib>=3.9
+pandas>=2.2
+jupyter>=1.0        # 或 notebook / jupyterlab
+nbconvert>=7.0

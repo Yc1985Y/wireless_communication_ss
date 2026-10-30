@@ -1,0 +1,22 @@
+# 课程数据与本地环境（不提交）
+无线仿真资料2026/
+NOF1_*.mat
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 本地输出与日志
+*.log
+*.pdf
+*.docx
+
+# 编辑器/系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 验证脚本的默认输出目录
+verify/
